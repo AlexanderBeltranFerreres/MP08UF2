@@ -66,6 +66,9 @@ nostre equip i entrar a comptes en línea, després fem clic a google i fiquem e
 compte, un com fet això ens apareixerà un directori al gestor de fitxers amb el nostre correu,
 si entrem dintre podem accedir a tot el que tenim al google drive.
 
+![](ComptesEnLinea.png)
+
+
 
 
 
