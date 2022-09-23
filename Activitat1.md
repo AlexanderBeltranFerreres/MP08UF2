@@ -83,6 +83,19 @@ busquem la carpeta que volem i la arrosseguem a la part inferior de la barra esq
 Per consultar un document hem d’accedir al google drive desde els fitxers, després hem de
 entrar a la carpeta “Documents” i ja podrem consultar el fitxer que vulguem.
 
+![](Consultar.png)
+
+![](Consultar2.png)
+
+## COMPROVACIÓ DE SI ES POT ELIMINAR UN
+##     FITXER PER PART DE L’USUARI
+
+L’usuari no pot eliminar cap fitxer ja que domes té permís de lectura, si intenta eliminar-lo li
+saltara un avís de que se li ha denegat el permís.
+
+
+
+
 
 
 
