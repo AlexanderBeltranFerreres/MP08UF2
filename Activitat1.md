@@ -68,6 +68,20 @@ si entrem dintre podem accedir a tot el que tenim al google drive.
 
 ![](ComptesEnLinea.png)
 
+## EXEMPLE DE FER UN BACKUP
+
+Per fer un backup a l'escriptori hem de entrar al google drive desde el gestor de fitxers,
+busquem la carpeta que volem i la arrosseguem a la part inferior de la barra esquerra.
+
+![](ComptesLinea.png)
+
+![](ComptesLinea2.png)
+
+## EXEMPLE D'ÚS DE CONSULTAR UN
+## DOCUMENT PER PART DE L’USUARI
+
+Per consultar un document hem d’accedir al google drive desde els fitxers, després hem de
+entrar a la carpeta “Documents” i ja podrem consultar el fitxer que vulguem.
 
 
 
