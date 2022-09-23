@@ -93,10 +93,4 @@ entrar a la carpeta “Documents” i ja podrem consultar el fitxer que vulguem.
 L’usuari no pot eliminar cap fitxer ja que domes té permís de lectura, si intenta eliminar-lo li
 saltara un avís de que se li ha denegat el permís.
 
-
-
-
-
-
-
-
+![](Denegat.png)
