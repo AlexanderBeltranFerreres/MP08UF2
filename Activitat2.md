@@ -7,4 +7,10 @@
 
 ## GUIA D'INTAL·LACIÓ
 
-Primer hem d'intal·lar el servidor apache2 amb la comanda sudo apt install apache2
+Primer hem d'intal·lar el servidor apache2 amb la comanda 
+```sh
+
+sudo apt install apache2
+
+```
+
