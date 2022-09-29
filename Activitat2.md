@@ -40,3 +40,11 @@ Aquí està la meva configuració:
 
 ![](Meva-Configuració.png)
 
+Finalment reiniciem el servidor MariaDB amb la comanda 
+```sh
+
+sudo systemctl restart mariadb.service` o `sudo service mariadb.service restart
+
+```
+
+
