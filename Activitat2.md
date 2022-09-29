@@ -14,3 +14,29 @@ sudo apt install apache2
 
 ```
 
+
+
+Despres instl·lem MariaDB amb la comanda 
+```sh
+
+sudo apt-get install mariadb-server mariadb-client -y
+
+```
+
+
+
+Ara configurem la instal·lació amb 
+
+```sh
+
+sudo mysql_secure_installation
+
+```
+
+
+
+Un cop executada ens demanará configurar.
+Aquí està la meva configuració:
+
+
+
