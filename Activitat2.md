@@ -14,7 +14,7 @@ sudo apt install apache2
 
 ```
 
-
+![](Intal·lar_apache.png)
 
 Despres instl·lem MariaDB amb la comanda 
 ```sh
@@ -23,7 +23,7 @@ sudo apt-get install mariadb-server mariadb-client -y
 
 ```
 
-
+![](Istal·lar_MariaDB.png)
 
 Ara configurem la instal·lació amb 
 
@@ -33,10 +33,10 @@ sudo mysql_secure_installation
 
 ```
 
-
+![](Configurar_Instal·lació.png)
 
 Un cop executada ens demanará configurar.
 Aquí està la meva configuració:
 
-
+![](Meva-Configuració.png)
 
