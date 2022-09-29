@@ -59,7 +59,7 @@ sudo service mariadb.service restart
 
 ```
 
-
+![](RestartMariaDB.png)
 
 ### CREAR BASE DE DADES OWNCLOUD
 
@@ -78,6 +78,7 @@ CREATE DATABASE owncloud;
 
 ```
 
+![](CrearBD.png)
 
 
 
