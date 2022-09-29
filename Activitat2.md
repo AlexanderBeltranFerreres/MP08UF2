@@ -33,7 +33,7 @@ sudo mysql_secure_installation
 
 ```
 
-![](Configurar_Intal·lació.png)
+![](Configurar_intal·lació.png)
 
 Un cop executada ens demanará configurar.
 Aquí està la meva configuració:
