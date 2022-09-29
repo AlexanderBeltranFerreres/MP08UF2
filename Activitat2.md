@@ -7,14 +7,14 @@
 
 ## GUIA D'INTAL·LACIÓ
 
-Primer hem d'intal·lar el servidor apache2 amb la comanda 
+Primer hem d'instal·lar el servidor apache2 amb la comanda 
 ```sh
 
 sudo apt install apache2
 
 ```
 
-![](Intal·lar_apache.png)
+![](Instal·lar_apache.png)
 
 Despres instl·lem MariaDB amb la comanda 
 ```sh
@@ -33,7 +33,7 @@ sudo mysql_secure_installation
 
 ```
 
-![](Configurar_Instal·lació.png)
+![](Configurar_Intal·lació.png)
 
 Un cop executada ens demanará configurar.
 Aquí està la meva configuració:
