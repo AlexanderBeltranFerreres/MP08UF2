@@ -46,6 +46,7 @@ Finalment reiniciem el servidor MariaDB amb la comanda
 sudo systemctl restart mariadb.service 
 
 ```
+```sh
 
 sudo service mariadb.service restart
 
