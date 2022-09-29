@@ -7,6 +7,9 @@
 
 ## GUIA D'INTAL·LACIÓ
 
+
+### INSTAL·LAR APACHE
+
 Primer hem d'instal·lar el servidor apache2 amb la comanda 
 ```sh
 
@@ -16,7 +19,9 @@ sudo apt install apache2
 
 ![](Instal·lar_apache.png)
 
-Despres instl·lem MariaDB amb la comanda 
+### INSTAL·LAR MARIA DB
+
+Despres instal·lem MariaDB amb la comanda 
 ```sh
 
 sudo apt-get install mariadb-server mariadb-client -y
@@ -51,6 +56,25 @@ o amb
 ```sh
 
 sudo service mariadb.service restart
+
+```
+
+
+
+### CREAR BASE DE DADES OWNCLOUD
+
+Entrem a Maria DB amb la comanda 
+```sh
+
+sudo mysql -u root -p
+
+```
+
+i creem la base de dades escribint 
+
+```sh
+
+CREATE DATABASE owncloud;
 
 ```
 
