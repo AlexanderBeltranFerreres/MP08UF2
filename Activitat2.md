@@ -80,5 +80,14 @@ CREATE DATABASE owncloud;
 
 ![](CrearBD.png)
 
+Ara hem de crear un usuari i una cotrasenya ficant 
+
+```sh
+
+CREATE USER 'nomusuari'@'localhost' IDENTIFIED BY 'contrasenya';
+
+```
+
+
 
 
