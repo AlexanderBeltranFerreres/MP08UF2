@@ -162,29 +162,30 @@ Hem de canviar els seguents valors
 
 Ara descarregem i descomprimim el programa
 
-´´´sh
+```sh
 
 cd /tmp && wget https://download.owncloud.com/server/stable/owncloud-complete-latest.zip
 unzip owncloud-complete-latest.zip
 
-´´´
+```
 
 ara el movem a un altre directori
 
-´´´sh
+```sh
 
 sudo mv owncloud /var/www/html/owncloud/
 
-´´´
+```
 
 També anem a canviar el propietari i els permisos
 
-´´´sh
+```sh
 
 sudo chown -R www-data:www-data /var/www/html/owncloud/
 sudo chmod -R 755 /var/www/html/owncloud/
 
-´´´
+```
+
 ![](CPermisos.png)
 
 
