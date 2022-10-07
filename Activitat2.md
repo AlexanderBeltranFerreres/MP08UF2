@@ -61,6 +61,7 @@ sudo service mariadb.service restart
 
 ![](RestartMariaDB.png)
 
+
 ### CREAR BASE DE DADES OWNCLOUD
 
 Entrem a Maria DB amb la comanda 
@@ -85,6 +86,17 @@ Ara hem de crear un usuari i una cotrasenya ficant
 ```sh
 
 CREATE USER 'nomusuari'@'localhost' IDENTIFIED BY 'contrasenya';
+
+```
+
+
+### INSTAL·LACIÓ OWNCLOUD
+
+Primer hem de desactivar el llistat de directoris del servidor
+
+```sh
+
+sudo sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apache2/apache2.conf
 
 ```
 
