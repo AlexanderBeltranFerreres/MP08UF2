@@ -96,6 +96,7 @@ GRANT ALL ON owncloud.* TO 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234' 
 
 
 ```
+! [](DonarAcces.png)
 
 
 ### INSTAL·LACIÓ OWNCLOUD
@@ -107,6 +108,7 @@ Primer hem de desactivar el llistat de directoris del servidor
 sudo sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apache2/apache2.conf
 
 ```
+![](DesactivarLlista.png)
 
 
 
