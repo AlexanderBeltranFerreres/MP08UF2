@@ -88,6 +88,14 @@ Ara hem de crear un usuari i una cotrasenya ficant
 CREATE USER 'nomusuari'@'localhost' IDENTIFIED BY 'contrasenya';
 
 ```
+Finalment li donem accés al usuari que acabem de crear.
+
+```sh
+
+GRANT ALL ON owncloud.* TO 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234' WITH GRANT OPTION;
+
+
+```
 
 
 ### INSTAL·LACIÓ OWNCLOUD
