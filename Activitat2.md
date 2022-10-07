@@ -19,6 +19,15 @@ sudo apt install apache2
 
 ![](Instal·lar_apache.png)
 
+Ara hem de desactivar el llistat de directoris del servidor
+
+```sh
+
+sudo sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apache2/apache2.conf
+
+```
+![](DesactivarLlista.png
+
 ### INSTAL·LAR MARIA DB
 
 Despres instal·lem MariaDB amb la comanda 
@@ -105,16 +114,8 @@ Guardem els canvis i surtim
 ![](GiS.png)
 
 
-### INSTAL·LACIÓ OWNCLOUD
+### INSTAL·LACIÓ 
 
-Primer hem de desactivar el llistat de directoris del servidor
-
-```sh
-
-sudo sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apache2/apache2.conf
-
-```
-![](DesactivarLlista.png)
 
 
 
