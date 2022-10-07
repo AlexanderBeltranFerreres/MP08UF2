@@ -98,7 +98,7 @@ GRANT ALL ON owncloud.* TO 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234' 
 
 
 ```
-![](DonarAcces.png)
+![](DonarAcces2.png)
 
 
 ### INSTAL·LACIÓ OWNCLOUD
