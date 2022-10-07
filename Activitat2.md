@@ -185,7 +185,7 @@ sudo chown -R www-data:www-data /var/www/html/owncloud/
 sudo chmod -R 755 /var/www/html/owncloud/
 
 ´´´
-![](CPermisos.png
+![](CPermisos.png)
 
 
 
