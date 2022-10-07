@@ -88,6 +88,8 @@ Ara hem de crear un usuari i una cotrasenya ficant
 CREATE USER 'nomusuari'@'localhost' IDENTIFIED BY 'contrasenya';
 
 ```
+![](Crear_UserOwnCloud.png)
+
 Finalment li donem accés al usuari que acabem de crear.
 
 ```sh
