@@ -202,13 +202,13 @@ sudo nano /etc/apache2/sites-available/owncloud.conf
 
 - ServerAdmin: És l'admisistrador del servidor.
 
-- DocumentRoot: 
+- DocumentRoot: És la ruta per defecte.
 
 - ServerName: És el nom del servidor.
 
 - ServerAlias: És el segon nom del servidor.
 
-- 
+- Directory: Tot el que hi ha dintre (baix) s'aplica al diretori indicat.
 
 
 
