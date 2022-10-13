@@ -188,6 +188,8 @@ sudo chmod -R 755 /var/www/html/owncloud/
 
 ![](CPermisos.png)
 
+### EXPLICACIÓ DE LES LINIES SEGUENTS
+
 
 
 
