@@ -188,7 +188,13 @@ sudo chmod -R 755 /var/www/html/owncloud/
 
 ![](CPermisos.png)
 
-### EXPLICACIÓ DE LES LINIES SEGUENTS
+### CONFIGURACIÓ APACHE2
+
+Per configurar apache2 hem de entrar a owncloud.conf
+
+```sh
+sudo nano /etc/apache2/sites-available/owncloud.conf
+```
 
 
 
