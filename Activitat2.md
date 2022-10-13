@@ -26,7 +26,8 @@ Ara hem de desactivar el llistat de directoris del servidor
 sudo sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apache2/apache2.conf
 
 ```
-![](DesactivarLlista.png
+![](DesactivarLlista.png)
+
 
 ### INSTAL·LAR MARIA DB
 
