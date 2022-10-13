@@ -196,9 +196,19 @@ Per configurar apache2 hem de entrar a owncloud.conf
 ```sh
 sudo nano /etc/apache2/sites-available/owncloud.conf
 ```
-![](owncloud.conf)
+![](owncloud.conf2.png)
 
+- VirtualHost *80: El servidor contestará a qualsevol IP, ho fa pel port 80.
 
+- ServerAdmin: És l'admisistrador del servidor.
+
+- DocumentRoot: 
+
+- ServerName: És el nom del servidor.
+
+- ServerAlias: És el segon nom del servidor.
+
+- 
 
 
 
