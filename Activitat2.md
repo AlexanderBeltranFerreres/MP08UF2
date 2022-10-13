@@ -196,6 +196,8 @@ Per configurar apache2 hem de entrar a owncloud.conf
 ```sh
 sudo nano /etc/apache2/sites-available/owncloud.conf
 ```
+![](owncloud.conf)
+
 
 
 
