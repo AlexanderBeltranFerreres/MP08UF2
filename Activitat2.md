@@ -193,12 +193,12 @@ sudo chmod -R 755 /var/www/html/owncloud/
 
 Per configurar apache2 hem de entrar a owncloud.conf un cop fet això ya ens dixarà accedir al owncloud 
 
-![](entrar.png)
-
 ```sh
 sudo nano /etc/apache2/sites-available/owncloud.conf
 ```
 ![](owncloud.conf2.png)
+
+![](entrar.png)
 
 - VirtualHost *80: El servidor contestará a qualsevol IP, ho fa pel port 80.
 
