@@ -191,7 +191,9 @@ sudo chmod -R 755 /var/www/html/owncloud/
 
 ### CONFIGURACIÓ APACHE2
 
-Per configurar apache2 hem de entrar a owncloud.conf
+Per configurar apache2 hem de entrar a owncloud.conf un cop fet això ya ens dixarà accedir al owncloud 
+
+![](entrar.png)
 
 ```sh
 sudo nano /etc/apache2/sites-available/owncloud.conf
