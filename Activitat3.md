@@ -60,8 +60,11 @@ La ruta real dels arxius de ownclows és la seguent:
 3.4.- Mostra els següents canvis de paràmetres d'usuari:
 
 Posa't una imatge d'usuari.
-![](FotoPerfil.png)
+
+  ![](FotoPerfil.png)
 
 Afegeix el teu mail de l'Institut.
+
 Canvia l'idioma a català.
+
 Mostra la versió d'Owncloud instal·lada.
