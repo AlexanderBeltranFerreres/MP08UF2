@@ -36,6 +36,8 @@ La ruta real dels arxius de ownclows és la seguent:
 
 · Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?
 
+  
+
 · Això passa a tots els països?
 
 · Quina és la llicència d'OWncloud Enterprise?
@@ -48,3 +50,18 @@ La ruta real dels arxius de ownclows és la seguent:
   I Dropbox?
 
 · Compta Owncloud amb antivirus? En cas afirmatiu com es diu?
+
+
+
+
+
+
+
+3.4.- Mostra els següents canvis de paràmetres d'usuari:
+
+Posa't una imatge d'usuari.
+![](FotoPerfil.png)
+
+Afegeix el teu mail de l'Institut.
+Canvia l'idioma a català.
+Mostra la versió d'Owncloud instal·lada.
