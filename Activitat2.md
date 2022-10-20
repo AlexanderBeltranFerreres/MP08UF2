@@ -216,6 +216,8 @@ sudo nano /etc/apache2/sites-available/owncloud.conf
 
 - AllowOverrite All: Serveix per donar permins als usuaris per poder fer modificiacions.
 
+- Require All Granded: Serveix per permitir la entrada a totes les direccions IP.
+
 - 
 
 
