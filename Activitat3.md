@@ -8,3 +8,7 @@ apache2ctl -S
 
 ![](Selecció_248.png)
 
+La ruta real dels arxius de ownclows és la seguent:
+
+![](rutareal.png)
+
