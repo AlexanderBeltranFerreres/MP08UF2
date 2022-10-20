@@ -218,7 +218,6 @@ sudo nano /etc/apache2/sites-available/owncloud.conf
 
 - Require All Granded: Serveix per permitir la entrada a totes les direccions IP.
 
-- 
 
 
 
