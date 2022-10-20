@@ -212,7 +212,11 @@ sudo nano /etc/apache2/sites-available/owncloud.conf
 
 - Directory: Tot el que hi ha dintre (baix) s'aplica al diretori indicat.
 
+- +FollowSymlinks: Habilita que es puguen seguir enllaços simbòlics.
 
+- AllowOverrite All: Serveix per donar permins als usuaris per poder fer modificiacions.
+
+- 
 
 
 
