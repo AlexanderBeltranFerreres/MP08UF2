@@ -12,3 +12,39 @@ La ruta real dels arxius de ownclows és la seguent:
 
 ![](rutareal.png)
 
+3.3.- Al directori Learn more about owncloud hi ha informació en forma de fitxers pdf. Consulta'ls i respon aquestes preguntes:
+
+· Quin són els tres tipus de protecció de dades que ofereix Owncloud?
+
+  Encryption in Transit, Encryption at Rest i End-to-End Encryption.
+ 
+· Fes una petita descripció de cada un d'ells.
+
+  El xifratge en trànsit garanteix mitjançant l'ús d'HTTPS aprofitant el TLS més recent
+  protocols en tots els navegadors i clients compatibles. El xifratge en trànsit és obligatori segons el GDPR
+  
+  El xifratge en repòs significa xifrar tots els fitxers
+  desats del servidor d'aplicacions ownCloud abans de desar-los a l'emmagatzematge real.
+  ownCloud utilitza un mètode de xifratge de clau mestra per a això que és compatible amb tots els sistemes de fitxers.
+  
+  El xifratge de punt a punt és el nivell més alt de dades
+  secret combinat amb el més alt nivell de
+  protecció de dades. Els desavantatges són que el
+  l'usuari ha de pensar en els requisits de secret o de protecció de dades dels fitxers de cadascun
+  carpeta, la sobrecàrrega de rendiment a la carpeta
+  costat del client i l'administrador del sistema no poden recuperar cap dada per a l'usuari.
+
+· Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?
+
+· Això passa a tots els països?
+
+· Quina és la llicència d'OWncloud Enterprise?
+
+· I la d'Owncloud Standard?
+
+· Es poden veure videos en Streaming directament des de Owncloud?
+
+· Es poden connectar directoris de Google Drive a Owncloud?
+  I Dropbox?
+
+· Compta Owncloud amb antivirus? En cas afirmatiu com es diu?
