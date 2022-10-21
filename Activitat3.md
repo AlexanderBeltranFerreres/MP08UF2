@@ -75,7 +75,7 @@ Posa't una imatge d'usuari.
 
 Afegeix el teu mail de l'Institut.
 
-
+  ![](correu.png)
 
 Canvia l'idioma a català.
 
