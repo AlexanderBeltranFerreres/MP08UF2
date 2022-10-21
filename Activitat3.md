@@ -79,4 +79,8 @@ Afegeix el teu mail de l'Institut.
 
 Canvia l'idioma a català.
 
+![](idioma.png)
+
 Mostra la versió d'Owncloud instal·lada.
+
+
