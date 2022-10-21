@@ -83,4 +83,5 @@ Canvia l'idioma a català.
 
 Mostra la versió d'Owncloud instal·lada.
 
+![](app.png)
 
