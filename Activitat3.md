@@ -36,22 +36,32 @@ La ruta real dels arxius de ownclows és la seguent:
 
 · Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?
 
-  
-
+  Ja que la llei nord-americana obliga a l'empresa a donar accés a les agències governamentals a les dades dels usuaris de Microsoft a petició. Tot i que   això és dolent per a la privadesa de les dades, ara també és un problema de responsabilitat tangible per a les empreses europees: el Tribunal de         Justícia Europeu ha anul·lat l'anomenat "escut de privadesa" el 2020, el que significa que ja no és cap base legal per transferir dades. als Estats       Units. En ajustar de manera intel·ligent, l'ecosistema d'Office, es pot evitar que els documents es transfereixin al núvol de Microsoft.
+ 
 · Això passa a tots els països?
+
+  No, domés als països europeus
 
 · Quina és la llicència d'OWncloud Enterprise?
 
+  Owncloud Comercial License
+
 · I la d'Owncloud Standard?
+
+  AGPLv3
 
 · Es poden veure videos en Streaming directament des de Owncloud?
 
+  Si
+
 · Es poden connectar directoris de Google Drive a Owncloud?
   I Dropbox?
+  
+  Si, ambdós.
 
 · Compta Owncloud amb antivirus? En cas afirmatiu com es diu?
 
-
+  si, es diu ClamAV
 
 
 
@@ -64,6 +74,8 @@ Posa't una imatge d'usuari.
   ![](FotoPerfil.png)
 
 Afegeix el teu mail de l'Institut.
+
+
 
 Canvia l'idioma a català.
 
