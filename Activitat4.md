@@ -35,6 +35,8 @@ A l'exemple es crea un fitxer de 10MB.
 Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 ![](C1.png)
+
+
 ![](C2.png)
 ![](C3.png)
 
