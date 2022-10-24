@@ -22,7 +22,7 @@ Per a que pugui accedir necessitarà:
 
 **4.3.-** Crea un usuari XYZ on XYZ son les inicials del company/a i afegeix-lo al grup usuaris, aquest usuari tindrà una quota de 512 MB.
 
-**RESPOSTA**
+![](MB.png)
 
 **4.4.-** Podem crear fitxers d'una mida determinada a Linux amb la comanda:
 
