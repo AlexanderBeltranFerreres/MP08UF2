@@ -66,11 +66,15 @@ Podem veure que fica compartit per adminPCD
 
 **4.10.-** Esborra la carpeta Learn more about owncloud.
 
-**RESPOSTA**
+Anem als 3 punts de la carpeta i fem clic a esborrar.
+![](esborra.png)
 
 **4.11.-** Recupera la carpeta Learn more about owncloud.
 
-**RESPOSTA**
+Ara anem a fixers esborrats i fem clic a recupera.
+![](fesborrats.png)
+
+![](recupera.png)
 
 **4.12.-** Com a usuariXYZ crea una carpeta nova anomenada shared i comparteix-la amb l'usuari usuari2XYZ.
 
