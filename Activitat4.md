@@ -93,7 +93,7 @@ Ara anem a fixers esborrats i fem clic a recupera.
 
 L'aplicació Calendar és una interfície d'usuari per al servidor CalDAV d'ownCloud. Sincronitza esdeveniments des de diversos dispositius amb el teu ownCloud.
 
-![](Calendar.png)
+![](calendar.png)
 
 Comparteix amb usuaris externs còmodament només introduint una adreça de correu electrònic al diàleg per compartir. Els destinataris reben un correu electrònic amb un enllaç d'activació. Poden iniciar sessió amb la seva adreça de correu electrònic com a nom d'usuari i la contrasenya que van triar durant l'activació. Els convidats fins i tot poden utilitzar els clients d'escriptori ownCloud i les aplicacions mòbils per connectar-se a ownCloud i treballar en continguts compartits.
 
