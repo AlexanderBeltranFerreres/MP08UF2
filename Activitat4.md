@@ -91,15 +91,20 @@ Ara anem a fixers esborrats i fem clic a recupera.
 
 ![image](https://user-images.githubusercontent.com/110727546/196159706-705ff624-c409-4632-acb4-f43ffcc486d4.png)
 
-**RESPOSTA PRIMERA APP**
+L'aplicació Calendar és una interfície d'usuari per al servidor CalDAV d'ownCloud. Sincronitza esdeveniments des de diversos dispositius amb el teu ownCloud.
 
-**RESPOSTA SEGONA APP**
+![](Calendar.png)
+
+Comparteix amb usuaris externs còmodament només introduint una adreça de correu electrònic al diàleg per compartir. Els destinataris reben un correu electrònic amb un enllaç d'activació. Poden iniciar sessió amb la seva adreça de correu electrònic com a nom d'usuari i la contrasenya que van triar durant l'activació. Els convidats fins i tot poden utilitzar els clients d'escriptori ownCloud i les aplicacions mòbils per connectar-se a ownCloud i treballar en continguts compartits.
+
+![](guests.png)
+
 
 **4.14.-** Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris.
 
 Aquesta carpeta haurà de pertànyer a l'usuari www-data.
 
-**RESPOSTA**
+
 
 **4.15.-** Connectarem la carpeta publicXYZ com emmagatzematge local, tal i com s'indica [aquí](https://doc.owncloud.com/server/next/admin_manual/configuration/files/external_storage/local.html). Tots els usuaris tindran accés a la carpeta.
 
