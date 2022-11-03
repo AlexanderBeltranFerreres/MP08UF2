@@ -72,6 +72,8 @@ Anem als 3 punts de la carpeta i fem clic a esborrar.
 **4.11.-** Recupera la carpeta Learn more about owncloud.
 
 Ara anem a fixers esborrats i fem clic a recupera.
+
+
 ![](fesborrats.png)
 
 ![](recupera.png)
