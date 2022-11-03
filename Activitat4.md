@@ -80,7 +80,12 @@ Ara anem a fixers esborrats i fem clic a recupera.
 
 **4.12.-** Com a usuariXYZ crea una carpeta nova anomenada shared i comparteix-la amb l'usuari usuari2XYZ.
 
-**RESPOSTA**
+![](shared.png)
+
+![](shared2.png)
+
+![](shared3.png)
+
 
 **4.13.-** Entra a Market instal·la dues aplicacions que no estiguin ja instal·lades i explica què fan i com funcionen.
 
