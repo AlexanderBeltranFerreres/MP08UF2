@@ -115,7 +115,9 @@ Aquesta carpeta haurà de pertànyer a l'usuari www-data.
 
 **4.16.-** Un usuari normal pujarà un fitxer a la carpeta public.
 
-**RESPOSTA**
+![](clocal.png)
+
+![](flocal.png)
 
 **OPCIONAL.-** Aquesta tasca és opcional.
 
